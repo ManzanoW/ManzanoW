@@ -6,8 +6,8 @@ Atuo com suporte técnico em plataforma SaaS de pedidos e desenvolvo aplicaçõe
 🎯 Objetivo atual: vaga como Desenvolvedor Front-end ou Full Stack (júnior)  
 📍 Santos/SP · Remoto Brasil  
 📧 joaovytormanzano@gmail.com  
-🔗 LinkedIn: [seu link]  
-🔗 Portfólio: [seu link]
+🔗 [LinkedIn](https://www.linkedin.com/in/joao-vytor/)   
+🔗 [Portfólio](https://my-portfolio-beta-flax-uo1wwytg9x.vercel.app/)
 
 ## Tecnologias
 
@@ -17,4 +17,4 @@ Atuo com suporte técnico em plataforma SaaS de pedidos e desenvolvo aplicaçõe
 
 ## Projetos em destaque
 
-(assim que tivermos os 2 projetos principais, coloco os links aqui)
+*EM CONSTRUÇÃO*
