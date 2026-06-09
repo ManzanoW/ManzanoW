@@ -1,16 +1,20 @@
-## Hi there 👋
+# Olá, eu sou o João Vytor 👋
 
-<!--
-**ManzanoW/ManzanoW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Full Stack com foco em Front-end (React.js e Next.js).  
+Atuo com suporte técnico em plataforma SaaS de pedidos e desenvolvo aplicações web com React, Next.js e Node.js, consumindo APIs REST e versionando com Git/GitHub.
 
-Here are some ideas to get you started:
+🎯 Objetivo atual: vaga como Desenvolvedor Front-end ou Full Stack (júnior)  
+📍 Santos/SP · Remoto Brasil  
+📧 joaovytormanzano@gmail.com  
+🔗 LinkedIn: [seu link]  
+🔗 Portfólio: [seu link]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias
+
+- Front-end: React.js, Next.js, HTML5, CSS3, Tailwind, Material UI  
+- Back-end: Node.js, Express, APIs REST  
+- Outras: Git, GitHub, Docker (básico), AWS (básico)
+
+## Projetos em destaque
+
+(assim que tivermos os 2 projetos principais, coloco os links aqui)
