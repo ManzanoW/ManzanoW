@@ -17,4 +17,8 @@ Atuo com suporte técnico em plataforma SaaS de pedidos e desenvolvo aplicaçõe
 
 ## Projetos em destaque
 
-*EM CONSTRUÇÃO*
+[fintrack](https://github.com/ManzanoW/fintrack) — dashboard financeiro com Next.js, TypeScript, Tailwind e Recharts.
+
+[my-portfolio](https://github.com/ManzanoW/my-portfolio) — portfólio pessoal responsivo com foco em apresentação profissional.
+
+[lider-celulares](https://github.com/ManzanoW/lider-celulares) — landing page para assistência técnica, com foco em presença digital e conversão.
