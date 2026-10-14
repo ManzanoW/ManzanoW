@@ -3,7 +3,7 @@
 Desenvolvedor Full Stack com foco em Front-end (React.js e Next.js).  
 Atuo com suporte técnico em plataforma SaaS de pedidos e desenvolvo aplicações web com React, Next.js e Node.js, consumindo APIs REST e versionando com Git/GitHub.
 
-🎯 Objetivo atual: vaga como Desenvolvedor Front-end ou Full Stack (júnior)  
+🎯 Objetivo atual: vaga como Desenvolvedor Front-end ou Full Stack   
 📍 Santos/SP · Remoto Brasil  
 📧 joaovytormanzano@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/joao-vytor/)   
